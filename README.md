@@ -74,7 +74,7 @@ Smart-Writing-Assistant-Pro/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Writing-Assistant-Pro.git
+git clone https://github.com/jainshreyaa04-sketch/Smart-Writing-Assistant-Pro.git
 ```
 
 ### Go to the project folder
