@@ -177,9 +177,9 @@ Through this project I learned:
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/jainshreyaa04
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+LinkedIn: https://www.linkedin.com/in/shreya-jain-0a3445334/
 
 ---
 
