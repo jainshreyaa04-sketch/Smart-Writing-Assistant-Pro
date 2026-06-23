@@ -177,7 +177,7 @@ Through this project I learned:
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/jainshreyaa04
+GitHub: https://github.com/jainshreyaa04-sketch
 
 LinkedIn: https://www.linkedin.com/in/shreya-jain-0a3445334/
 
